@@ -1,0 +1,2 @@
+const DialoguePool = require('../tools/DialoguePool');
+module.exports = new DialoguePool(['So close!', 'Being so close must be a little painful.', 'That\'s pretty close, how about you get even closer next time eh?', 'You can almost touch my number, that\'s how close you are.', 'Almost there! Keep trying and keep failing!', 'One off.', 'Move one space on the number line and you\'ll be just fine.', 'Well that\'s sad, only one off!']);

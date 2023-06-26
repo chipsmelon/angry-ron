@@ -4,7 +4,7 @@ const {developers} = require('../config.json');
 
 module.exports = {
     names: ['getmessages', 'archive', 'arc', 'getbitches'],
-    description: 'After this you should get some bitches as well.',
+    description: 'After this you should get some bitches as well.', // extra present e ! - goodness gracious why
     usage: '{prefix}getmessages <amount>',
     quote: 'I hate dense people.',
     devonly: true,
